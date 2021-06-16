@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623830759 source:c:\users\quentin\documents\test1\lafile\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1623847575 source:c:\users\quentin\documents\test1\file_sans_sdl\lafile\main.c
+	<stdio.h>
+	<stdlib.h>
+
